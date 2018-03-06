@@ -1,0 +1,3 @@
+index:
+    path: /watch/{id}
+    controller: App\Controller\WatchController::getByIdAction

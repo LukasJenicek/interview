@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watches>
+    <watch identification='watch-250'>
+        <id>250</id>
+        <title>Watch with water fountain</title>
+        <price>200</price>
+        <desc>Beautifully crafted timepiece for every gentleman.</desc>
+    </watch>
+    <watch identification='watch-255'>
+        <id>255</id>
+        <title>Watch with water fountain</title>
+        <price>300</price>
+        <desc>Beautifully crafted timepiece for every gentleman.</desc>
+    </watch>
+</watches>
